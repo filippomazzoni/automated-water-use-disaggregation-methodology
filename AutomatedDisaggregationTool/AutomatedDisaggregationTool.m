@@ -1,6 +1,7 @@
 
 %% Automated Household Water End-Use Disaggregation Through A Rule-Based Automated Methodology
 % Filippo Mazzoni, Stefano Alvisi, Marco Franchini, Marco Ferraris, and Zoran Kapelan
+% Note. The disaggregation code and its related functions have been developed and tested by using MATLAB® version R2019a.
 
 % The methodology for automated water use disaggregation detects,
 % disaggregates and classifies individual water uses one end-use category

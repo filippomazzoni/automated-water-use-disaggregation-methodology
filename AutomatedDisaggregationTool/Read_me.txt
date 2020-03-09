@@ -6,3 +6,4 @@ The folder attached in the repository includes the content briefly described in 
 2. The code of the automated methodology for water end-use disaggregation is included in a MATLAB® m-file (namely AutomatedDisaggregationTool.m). The code is provided with comments pointing out the idea behind the method.
 3. The functions required by the main code are included in several MATLAB® m-file (namely F_Parameters.m, F_ToiletParameterValuesIdentification, F_DW, F_KS, F_WM, F_S, F_TT). Functions are provided with comments pointing out the idea behind them and are recalled in turn during the main code run.
 
+Note. The disaggregation code and its related functions have been developed and tested by using MATLAB® version R2019a.
